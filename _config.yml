@@ -9,11 +9,11 @@ logo: # logo.png # filename of a logo image that has been placed into your image
 owner:
   name: Thi Theu Dinh
   avatar: #bio-photo.jpg
-  bio: Graduate Student at University of Rochester, Political Science 
-  email: t.dinh@rochester.edu
+  bio: PhD Candidate in Political Science at the University of Rochester
+  email: #t.dinh@rochester.edu
   twitter: #twitter username (no '@')
   linkedin: #linkedin
-  github: theu-dinh
+  github: # theu-dinh
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #researchgate username 
   mendeley: #mendeley username 
