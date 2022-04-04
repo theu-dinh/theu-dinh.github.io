@@ -9,7 +9,7 @@ logo: # logo.png # filename of a logo image that has been placed into your image
 owner:
   name: Theu Dinh
   avatar: UoRimage.jpg
-  bio: PhD Candidate in Political Science at the University of Rochester
+  bio: #PhD Candidate in Political Science at the University of Rochester
   email: #t.dinh@rochester.edu
   twitter: #twitter username (no '@')
   linkedin: #linkedin
