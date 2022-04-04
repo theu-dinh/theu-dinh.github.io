@@ -1,13 +1,13 @@
 
 # Site wide configuration
 
-# title: Theu Dinh
+title: Theu Dinh
 locale: en_US
 logo: # logo.png # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Theu Dinh
+#  name: Theu Dinh
   avatar: UoRimage.jpg
   # bio: PhD Candidate in Political Science at the University of Rochester
   # email: t.dinh@rochester.edu
